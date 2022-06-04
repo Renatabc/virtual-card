@@ -1,6 +1,8 @@
 # Social Tree
 "Cartão de visita" virtual com o propósito de listar os links para contato.
 
+![social tree pc](https://user-images.githubusercontent.com/93830634/172005014-855ca533-34de-4ab0-92d9-6cb1207f0062.png)
+
 ### Status do projeto
 Concluído!!!:computer:
 
